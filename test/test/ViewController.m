@@ -18,6 +18,9 @@
     [super viewDidLoad];
     
     // hal le m
+    
+    UIView *muView = [[UIView alloc]init];
+    
 }
 
 - (void)didReceiveMemoryWarning {
